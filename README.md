@@ -16,3 +16,7 @@ next call alias with quoted statement you want figlet to draw and lolcat to colo
 like: fcat "Hello World"  
 
 :)
+
+<hr> 
+
+![fcat usage](mf.png)
